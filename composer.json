@@ -1,0 +1,14 @@
+{
+    "name": "amitkhare/apache-htaccess-host-to-sub-directory",
+    "description": "Base project to redirect all calls to subdirectory for Apache web server.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amit Kumar Khare",
+            "email": "amit@khare.co.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
