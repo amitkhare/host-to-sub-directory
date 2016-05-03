@@ -1,5 +1,5 @@
 {
-    "name": "amitkhare/apache-htaccess-host-to-sub-directory",
+    "name": "amitkhare/host-to-sub-directory",
     "description": "Base project to redirect all calls to subdirectory for Apache web server.",
     "type": "project",
     "license": "MIT",
