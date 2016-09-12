@@ -20,6 +20,3 @@ Replace `[my-app-name]` with the desired directory name for your new application
 * Point your virtual host document root to your new application's root `/` directory.
 
 That's it!
-
-# Author
-Amit Kumar Khare
